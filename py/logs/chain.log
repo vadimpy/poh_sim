@@ -1,0 +1,42 @@
+Tr 0:
+from: 0x0000
+to: 0x0000
+amt: 0
+hash: 8855508aade16ec573d21e6a485dfd0a7624085c1a14b5ecdd6485de0c6839a4
+
+Tr 1:
+from: 0x0248
+to: 0x01d1
+amt: 10
+hash: 97f1747bbd3202f987d8405ff9efe77a766f1d84db0de6b0481caf8dac842b41
+
+Tr 2:
+from: 0x01d1
+to: 0x0248
+amt: 10
+hash: a68aa49812535618678bb55f10b8a1226e8da9ebe35fcc5be8e82e3321e1c21b
+
+Tr 3:
+from: 0x0248
+to: 0x01d1
+amt: 15
+hash: 52fe4224fb36e906a28d8c199a83ec13206fc08ed454737042e128c09ab6989b
+
+Tr 4:
+from: 0x01d1
+to: 0x0248
+amt: 15
+hash: 1e6bdb8f4826ac7b6d6bf9ca90508a42c4f8a68ccd3b3a7bdf715a6fd68c8b68
+
+Tr 5:
+from: 0x0248
+to: 0x01d1
+amt: 1
+hash: 0685f6b7bf829de5d2d76aa9ff7b4f53472ffa158bd9af3a998c90ca68b26a4b
+
+Tr 6:
+from: 0x01d1
+to: 0x0248
+amt: 1
+hash: 5d07dfa4b01e9b40eb982d8efff37097f49d40ec901aa8dfb45f8762f3e97ba4
+
